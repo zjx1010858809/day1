@@ -7,5 +7,7 @@
 </head>
 <body>
 <div style="background-color: aqua;width: 300px;height: 300px; "></div>
+<div style="background-color: aqua;width: 300px;height: 300px; "></div>
+<div style="background-color: aqua;width: 300px;height: 300px; "></div>
 </body>
 </html>
